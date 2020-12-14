@@ -1,0 +1,51 @@
+body {
+    font-family: 'Karla', sans-serif;
+}
+
+.name {
+    font-family: Karla;
+    font-size: 16px;
+    font-weight: bold;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+  }
+
+  .subName {
+    font-family: Karla;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+  }
+
+  .description {
+    font-family: Karla;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: left;
+    color: #707070;
+  }
+ 
+.navMenu {
+    font-family: Karla;
+    font-size: 16px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-align: right;
+    color: #2440bd;
+  }
